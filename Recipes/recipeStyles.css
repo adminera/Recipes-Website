@@ -1,0 +1,14 @@
+.paragraphs {
+    font-size: 21px;
+}
+
+.headers {
+color: darkred;
+text-align: center;
+font-size: 25px;
+}
+
+body {
+    background-color: lightyellow;
+    padding: 20px;
+}
